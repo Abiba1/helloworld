@@ -34,8 +34,10 @@ namespace Lab4._1
 					Console.WriteLine("Unrecognized command.");
 					break;
 			}
+			Console.WriteLine("весёлая лаба");
 		}
 
 		static void Plus(double a, double b) => Console.WriteLine(a + b);
+		
 	}
 }
